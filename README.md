@@ -6,7 +6,7 @@ A classic Pong game built with HTML, CSS, and JavaScript — playable in your br
 - Mouse support
 
 ## 🚀 Play It At: 
-[Click Here](zackdelsnova.github.io/pong-game/)
+[Click Here](https://zackdelsnova.github.io/pong-game/)
 
 ## 🎮 How to Play
 
