@@ -7,29 +7,5 @@ body {
     overflow: hidden;  /* Prevent scrolling */
 }
 
-#startMenu {
-    position: absolute;
-    top: 30%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: #222;
-    padding: 2rem;
-    border-radius: 12px;
-    box-shadow: 0 0 20px #000;
-}
 
-#winScoreInput {
-    width: 100px;
-    margin-top: 1rem;
-    padding: 0.5rem;
-    font-size: 1rem;
-}
-
-canvas {
-    display: block; /* Change from "none" to "block" */
-    background-color: black;
-    width: 100vw;
-    height: 100vh;
-    margin: 0;
-}
 
